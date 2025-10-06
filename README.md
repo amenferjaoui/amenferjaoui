@@ -4,13 +4,15 @@
   
 [![DevOps & Fullstack Engineer | Cloud | CI/CD | Kubernetes | Automation](https://img.shields.io/badge/DevOps_&_Fullstack_Engineer_%7C_Cloud_%7C_CI%2FCD_%7C_Kubernetes_%7C_Automation-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://linkedin.com/in/amen-allah-ferjaoui)
 
-<img src="https://imgur.com/CvgYNnv.png" alt="aboutme" width="800px">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzd5MHFtNnplOXllYWtyeTB0eThwNXRzcm0wdzVuOW55ZmNsNm9zOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhjXalGPAfJg4/giphy.gif" alt="fun dev gif" width="600px">
 
 </div>
 
 <div align="center">
   <p><strong>Hey there! 👋</strong> I'm <b>Amen Allah Ferjaoui</b>, a passionate <b>DevOps & Fullstack Engineer</b> who loves automation, cloud technologies, and building scalable, modern architectures.</p>
+  <p>Currently sharpening my skills in DevOps and Cloud, and when I'm not automating something, you’ll probably find me trying to climb the ranks in <b>chess</b> or <b>Valorant</b> 🎮♟️.</p>
 </div>
+
 
 <br>
 
@@ -36,20 +38,21 @@
 
 ### 🎯 Quick Facts
 - 📍 Based in **Lyon, France**
-- 🎓 Engineering student at **Télécom Saint-Étienne**
-- 💼 Currently working at **SFR** as a **DevOps & Fullstack Engineer Apprentice (2024–2025)**
+- 🎓 Graduated from **Télécom Saint-Étienne** with an **Engineering degree in Computer Science**
+- 💼 Completed an apprenticeship at **SFR** as a **DevOps & Fullstack Engineer**
 - 🗣️ Languages: **French (native)**, **English (TOEIC 970)**
 - ⚡ Interests:
-  - Cloud Computing & IaC
+  - Cloud Computing & Infrastructure as Code
   - Automation & CI/CD
-  - System Observability
-  - Financial markets & tech innovation
+  - System Observability & Reliability
+  - Chess ♟️ and competitive gaming 🎮
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## ⚡ Tech Stack
 
