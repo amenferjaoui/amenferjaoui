@@ -95,15 +95,6 @@
 
 ---
 
-## 🎮 Fun Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amenferjaoui/amenferjaoui/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amenferjaoui/amenferjaoui/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amenferjaoui/amenferjaoui/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ## 🤝 Connect With Me
 
@@ -117,6 +108,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://imgur.com/meVJnmd.png" alt="Footer Banner" width="800px">
-</div>
