@@ -89,9 +89,42 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amenferjaoui&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenferjaoui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+
+  <!-- Light Mode -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=amenferjaoui&show_icons=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=86400#gh-light-mode-only"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=amenferjaoui&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=amenferjaoui&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      height="180px"
+      alt="GitHub Stats"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amenferjaoui&layout=compact&theme=default&hide_border=true&cache_seconds=86400#gh-light-mode-only"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amenferjaoui&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenferjaoui&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      height="180px"
+      alt="Top Languages"
+    />
+  </picture>
+
 </div>
+
 
 ---
 
