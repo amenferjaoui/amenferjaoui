@@ -89,8 +89,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amenferjaoui&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenferjaoui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amenferjaoui&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" 
+    alt="GitHub Stats" 
+    height="180px"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenferjaoui&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" 
+    alt="Top Languages" 
+    height="180px"
+  />
 </div>
 
 ---
